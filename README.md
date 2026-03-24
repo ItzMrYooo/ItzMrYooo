@@ -9,5 +9,6 @@
 | 🚀 Game Addiction Predictor | [Click to Try](https://huggingface.co/spaces/rgos20000/game-addiction-project-2)
 | 🗞️ News Summarizer | [Click to Try](https://huggingface.co/spaces/rgos20000/News_Summarizer)
 | 🧠  Quiz Generator | [Click to Try](https://huggingface.co/spaces/rgos20000/Quiz_Generator)
+| 💻  AI Image Analyzer | [Click to Try](https://huggingface.co/spaces/rgos20000/AI_Image_Analyizer)
 ## 🛠 Skills
 Python • Gradio • Groq AI • REST APIs • Hugging Face
