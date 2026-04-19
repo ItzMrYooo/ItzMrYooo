@@ -1,6 +1,6 @@
-# Hi, I'm Rayan Goswami 👋
+# Hi, I'm Rayan Goswami 
 
-## 🤖 My AI Projects
+##  My AI Projects
 
 | Project | Live App |
 |---|---|
